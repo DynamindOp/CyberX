@@ -1,5 +1,3 @@
-#Author: Dynamind
-
 @echo off
 title IP Connect-Brute - By Dynamind
 color A
