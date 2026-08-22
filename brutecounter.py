@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#Author: DynamindOP
 
 import itertools
 import string
